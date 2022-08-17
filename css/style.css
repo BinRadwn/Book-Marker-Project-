@@ -1,0 +1,17 @@
+* {
+  font-family: arial;
+}
+header h1 {
+  border-bottom: 1px solid #aaa;
+}
+.well {
+  background-color: #eee;
+}
+.well::after {
+  border-bottom: 1px solid #aaa;
+}
+
+.content {
+  background-image: linear-gradient(#eee, #fff);
+  border-bottom: 1px solid #aaa;
+}
